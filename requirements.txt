@@ -1,0 +1,7 @@
+google-api-python-client
+transformers
+torch
+streamlit
+pandas
+altair
+sentencepiece
